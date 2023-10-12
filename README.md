@@ -1,5 +1,5 @@
 # Dominik Dmowski
-**:aries: `Biomedical Engineer / Systems Engineer`**
+**:aries: `Biomedical Engineer / SAP BASIS`**
 
 :mailbox_with_mail: d_dominik@outlook.com 
 <br />:house_with_garden: https://www.linkedin.com/in/dominik-dmowski-bb963a236/
