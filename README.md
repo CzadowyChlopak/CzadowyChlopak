@@ -1,5 +1,5 @@
 # Dominik Dmowski
-**:aries: `Biomedical Engineer / SAP BASIS`**
+**:aries: `Biomedical Engineer / SAP Technical Consultant`**
 
 :mailbox_with_mail: d_dominik@outlook.com 
 <br />:house_with_garden: https://www.linkedin.com/in/dominik-dmowski-bb963a236/
@@ -10,6 +10,8 @@
 
 **:floppy_disk:The technologies that I am mainly using:**
 - Python 3
+- SAP ECC and S/4HANA
+- ABAP
 - Power Automate for Desktop
 - VBA
 - SQL
